@@ -49,4 +49,4 @@ classification_thread.join()
 detection_thread.join()
 sending_thread.join()
 
-print('All tasks have completed.')
+print('All tasks have completed 👍.')
